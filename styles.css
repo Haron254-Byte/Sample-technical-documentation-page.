@@ -78,8 +78,8 @@
 	   display: none;
 	 }
 	   body{
-	
-		   margin-left: -15rem;
+	overflow-X:hidden;
+		   margin-left: -20rem;
 		   float: left;
 		   width: 59vw;
     }	
