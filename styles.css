@@ -78,8 +78,9 @@
 	   display: none;
 	 }
 	   body{
-	overflow-X: hidden;
-		   margin-left: -12rem;
+	
+		   margin-left: -15rem;
 		   float: left;
+		   width: 59vw;
     }	
    }
