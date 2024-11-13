@@ -79,8 +79,9 @@
 	 }
 	   body{
 	overflow-X:hidden;
-		   margin-left: -20rem;
+		   margin-left: -16rem;
 		   float: left;
 		   width: 59vw;
+		   height: 40vh;
     }	
    }
