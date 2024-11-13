@@ -1,9 +1,4 @@
-@media(min-width: 700px){
-body{
-	width: 59vw;
-	height:
-    }	
-}
+
 
 .navigation{
 	position: fixed;
@@ -82,4 +77,7 @@ body{
 	 .navigation{
 	   display: none;
 	 }
+	   body{
+	overflow: hidden;
+    }	
    }
