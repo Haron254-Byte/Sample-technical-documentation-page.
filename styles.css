@@ -73,14 +73,17 @@
 	 }
    }
    @media(min-width:10px) and (max-width: 700px){
-	 
+
+	   P,h1,h2{
+font-size:6px;
+	   }
 	 .navigation{
 	   display: none;
 	 }
 	   body{
 	overflow-X:hidden;
 		   margin-left: -10rem;
-min-width: 60px !important;
+
 		    }	
 	  
 	   
