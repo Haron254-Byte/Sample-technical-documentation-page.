@@ -79,5 +79,7 @@
 	 }
 	   body{
 	overflow-X: hidden;
+		   margin-left: -12rem;
+		   float: left;
     }	
    }
